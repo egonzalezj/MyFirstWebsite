@@ -1,3 +1,7 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
 img {
   max-width: 100%
 }
@@ -8,4 +12,24 @@ img {
 
 .delete-space {
   margin-top: 100px
+}
+
+.pacifico {
+  font-family: 'Pacifico', cursive;
+}
+
+.big {
+  font-size: 4em;
+}
+
+.verde {
+  color: #0D7313;
+}
+
+.right-space {
+  margin-right: 1em;
+}
+
+a {
+  color: #AF9624;
 }
