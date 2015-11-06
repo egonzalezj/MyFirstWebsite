@@ -1,0 +1,11 @@
+img {
+  max-width: 100%
+}
+
+.delete-float {
+  float: none;
+}
+
+.delete-space {
+  margin-top: 100px
+}
