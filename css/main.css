@@ -46,6 +46,20 @@ img {
   margin-right: 1em;
 }
 
+.delay-1 {
+  -webkit-animation-delay: 1s;
+  -moz-animation-delay: 1s;
+  -o-animation: 1s;
+  animation-delay: 1s;
+}
+
+.delay-2 {
+  -webkit-animation-delay: 2s;
+  -moz-animation-delay: 2s;
+  -o-animation: 1s;
+  animation-delay: 2s;
+}
+
 .no-list {
   margin: 0px;
   padding: 0px;
